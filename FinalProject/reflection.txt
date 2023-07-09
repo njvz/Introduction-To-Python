@@ -1,0 +1,16 @@
+﻿Nathan Van Zandt 
+CS 111
+Final Project Reflection
+
+
+Which source bodies of text did you choose? Which new texts/bodies of text did you choose to compare against the sources?
+What were the results of your comparisons?
+How well do you think your text classification program works? How could it be improved?
+
+
+
+
+The sources of bodies of text that I chose were scripts from the shows The Office and Grey’s Anatomy. Specifically, I used the season 3 episode 3 script from The Office and the season 3 episode 1 script from Grey’s Anatomy. As for new bodies of text to compare against the sources, I used a season 3 episode 2 Parks and Recreation script, a season 3 episode 1 House M.D. script, a season 4 episode 4 The Office script, and a season 4 episode 1 Grey’s Anatomy Script. 
+
+
+For the results of the comparisons, the S3E2 Parks and Recreation episode was more likely to come from The Office, the S3E1 House M.D. episode was more likely to come from The Office, the S4E4 The Office episode was most likely to come from The Office, and the S4E1 Grey’s Anatomy episode was more likely to come from The Office. I think it worked somewhat well. Since Parks and Recreation is written by the same writers, it makes sense that they are more similar. It also makes sense that The Office episode was more similar to the source The Office episode. What didn’t make sense was that House M.D., a medical drama similar to Grey’s Anatomy, episode was more like the source The Office episode and that the other Grey’s Anatomy episode was more similar to the source The Office episode rather than the Source Grey’s Anatomy episode. I think this program could be improved by adding more cases to compare similarities.
