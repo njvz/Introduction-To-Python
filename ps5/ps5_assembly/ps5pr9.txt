@@ -1,0 +1,6 @@
+#
+# ps5pr9.txt (Problem Set 5, Problem 9)
+#
+# Calling a distance function twice
+#
+

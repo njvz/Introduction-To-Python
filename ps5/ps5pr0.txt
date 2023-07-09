@@ -1,0 +1,9 @@
+﻿Problem Set 5, Problem 0
+Put your response to the reading below.
+IMPORTANT: Your entire response should fit on this page.
+1. In her paper, Hopper lists two drawbacks of “using subroutines” (i.e., of abstracting sequences of instructions into reusable functions). Do you think those drawbacks still exist? How important are they today?
+2. Hopper also lists five advantages of using subroutines, but her list is not comprehensive. Explain at least one advantage of a high-level language that Hopper did not mention in her paper. This may be an idea of your own, or you might take one from those mentioned in the biographical sketch of Hopper, since she continued to expand her arguments for such languages as her career progressed!
+One of the disadvantages described was that the subroutines would cause a loss of time because of the duplicate data transfers. I think this drawback does still exist today. I think that the loss of time is probably much more minimal and unimportant today than before. I think that as long as reusable functions are used there will be some time loss even if the code is much more efficient. The second disadvantage is that if a subroutine doesn’t exist than it must be added. I think that this is less important today because software engineers have become better at creating general subroutines which can account for future additions to the software.
+
+
+Another advantage that Hopper didn’t mention would be that high-level language with more generalized subroutines are easier to learn and understand when just starting to study a programming language.

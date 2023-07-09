@@ -1,0 +1,11 @@
+﻿Problem Set 9: Problem 0
+Put your response to the reading below.
+IMPORTANT: Your entire response should fit on this page.
+
+
+
+
+Suppose that pivot searching were readily available to you. To what extent could you imagine using it? Do you feel it would make you more productive – or would this type of search remain largely unused in the way you interact with computation and electronic materials?
+
+
+I think I would use it whenever I couldn’t find something I was looking for and some sort of information linked to it. As a result, I could search using the information and find what I was looking for. I could also use it when I wanted a sum of all my activity during a specific interval of time.I think that it would make me more productive because I forget where things are digitally all the time and it would tell me if I need to do more work based on past activity. Something like pivot searching would make finding lost information much easier and it would definitely be used. It seems that YouPivot can make finding specific pieces of information easier and a general consensus of information easier as well.

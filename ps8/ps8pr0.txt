@@ -1,0 +1,8 @@
+﻿Problem Set 8, Problem 0
+Put your response to the reading below.
+IMPORTANT: When you are done, you must download the file as plain-text, not as a PDF.
+Use File->Download->Plain Text.
+
+
+The NELL system had to have human help in order to avoid the cascade of mistaken conclusions from the statement, “I deleted my Internet cookies.” Do you believe machine-learning systems (like NELL or others) will always need human assistance such as this, or will they be able to overcome such problems in the future? Give a brief explanation for your thoughts.
+I think they won't always need human assistance. I think that once these computer systems like the NELL system make enough comparisons in analyzing text written by humans then they will be able to avoid almost all mistaken conclusions. I think that for certain topics more comparisons must be made because of how vague they may be. I also think that computers systems may not be able to avoid all mistakes because comparisons might lead to the wrong conclusions based on how the software analyzes the text.
