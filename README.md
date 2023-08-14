@@ -1,4 +1,4 @@
 # Introduction-to-Python
 
-Includes promblem sets and final project. 
+Includes problem sets and final project. 
 
